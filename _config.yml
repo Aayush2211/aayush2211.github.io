@@ -1,0 +1,22 @@
+remote_theme: pages-themes/minimal
+
+plugins:
+  - jekyll-seo-tag
+
+title: Aayush Raj
+logo: "/image.png"
+
+description: >
+  <br>
+  Software Developer | 400+ problems on LeetCode
+  <br>
+  <a href="https://www.linkedin.com/in/aayush-raj-3309581b5/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:aayush22pat@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+# Custom CSS
+extra_css:
+  - custom.css
